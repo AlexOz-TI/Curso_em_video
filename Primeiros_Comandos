@@ -1,0 +1,24 @@
+print ('Olá, mundo!')
+
+nome = input('Qual o seu nome?')
+idade = input('Qual a sua idade?')
+peso = input('Qual o seu pedo?')
+print (nome, idade, peso)
+
+
+**Desafio**
+nome = input ('Olá, qual o seu nome?')
+print ('Seja bem vindo', nome)
+
+**Desafio 2**
+dia = input('Qual o dia em que você nasceu?')
+mes = input('Qual o mês que você nasceu?')
+ano = input('Qual o ano que você nasceu?')
+
+print ('Você nasceu no dia',dia,'do mes de',mes, 'de', ano)
+
+**Desafio 3**
+valor1 = input('Digite o primeiro valor:')
+valor2 = input('Digite o segundo valor')
+result = (valor1 + valor2)
+print('A soma dos dois valores é:', result)
